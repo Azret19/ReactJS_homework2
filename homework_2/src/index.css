@@ -1,0 +1,19 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+button {
+    width: 100px;
+    height: 100px;
+}
+
+.Red-Color {
+    background-color: blue;
+    margin: 20px;
+}
+
+.Blue-Color {
+    background-color: red;
+    margin: 20px;
+}
